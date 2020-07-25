@@ -11,7 +11,7 @@ Ciągle udoskonalam własne umięjetności i póki co mało udostępniam jestem 
 # Start
 Aby wystartować skrypt wystarczy być w tym samym folderze i napisać w konsoli przykładowo
 
-,, sh nazwa.sh "
+,, sh nazwa.sh " < - nSearch.sh ( Main ) / removeLogs.sh ( To remove generate logs from nSearch )
 
 # Script info
 To jeden z moich skrytów które będą rozwijane do jak największej automatyzacji itp.
