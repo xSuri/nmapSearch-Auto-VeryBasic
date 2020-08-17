@@ -26,8 +26,8 @@ fi
 if [ "$correct" = "$no" ];
     then
 
-    echo "Program stoped... (Start again and write correct IP)"
+    echo "Program stopped... (Start again and write correct IP)"
 
 fi
 
-echo "Program stoped... Your result in file log.txt"
+echo "Program stopped... Your result in file log.txt"
